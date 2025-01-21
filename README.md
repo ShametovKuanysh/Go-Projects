@@ -1,9 +1,6 @@
 Task Tracker
 Sample solution for the task-tracker challenge from roadmap.sh.
 
-go build -o task-tracker
-./task-tracker --help # To see the list of available commands
-
 # To add a task
 ./task-tracker add "Buy groceries"
 
